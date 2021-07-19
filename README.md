@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou Cristina Nazário
+- 👀 Atualmente estou interessada em tecnologias voltadas a automatização de testes
+- 🌱 Aualmente estou estudando sobre Selenium
+- 📫 Você pode me encontrar através do e-mail cnazario@firjan.com.br
